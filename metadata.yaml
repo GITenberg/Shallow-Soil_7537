@@ -1,9 +1,13 @@
 _repo: Shallow-Soil_7537
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hyllested, Carl Christian
     gutenberg_agent_id: '2511'
     url: http://www.gutenberg.org/2009/agents/2511
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -22,6 +26,8 @@ description: This is an electronic edition of the complete book complemented by 
   was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
   readers. It is formatted to display on all electronic devices including the Kindle,
   Smartphones and other Mobile Devices with a small display.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7537#Shallow-Soil
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
